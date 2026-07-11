@@ -1,15 +1,6 @@
 # 🏄‍♂️ Satria Dwi Cahya
 
-**`Building AI products for real-world problems. Not just demos.`**
-
-Most learning platforms are broken.
-
-Finding the right course shouldn’t take 30–60 minutes of scrolling, guessing, and second-guessing.
-Yet platforms like Coursera and edX still rely heavily on keyword search with little personalization.
-
-I’m focused on building systems that solve that.
-
-I design and build AI-powered products that aim to reduce decision fatigue, improve learning efficiency, and actually help users move forward. 
+**`Building solution for real-world problems. Not just demos.`**
 
 
 <p align="left">
